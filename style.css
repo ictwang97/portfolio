@@ -1,0 +1,22 @@
+nav{
+    z-index : 99;
+    color : #006cf0;
+}
+.skill-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+}
+.carousel-item img{
+    height : 100vh;
+}
+.sort-center{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width : 100vh;
+    height : 100vh;
+    border-top : 1px solid black;
+}
